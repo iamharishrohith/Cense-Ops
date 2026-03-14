@@ -78,7 +78,7 @@ export default function MonarchDashboard() {
   return (
     <div className="min-h-screen bg-[#F3F4F6] text-[#111827] font-sans">
       {/* Monarch Header */}
-      <header className="bg-white border-b border-gray-200 px-4 md:px-8 py-4 flex flex-col sm:flex-row items-center justify-between sticky top-0 z-50 gap-4 sm:gap-0">
+      <header className="bg-white border-b border-gray-200 px-4 md:px-8 lg:px-12 py-4 flex flex-col sm:flex-row items-center justify-between sticky top-0 z-50 gap-4 sm:gap-0">
         <div className="flex items-center gap-4">
           <div className="w-10 h-10 rounded bg-[#002b49] flex items-center justify-center text-white font-bold text-xl shadow-inner shrink-0">
             M
@@ -100,7 +100,7 @@ export default function MonarchDashboard() {
       </header>
 
       {/* Main Dashboard */}
-      <main className="max-w-7xl mx-auto p-4 md:p-8 space-y-6">
+      <main className="w-full p-4 md:p-8 lg:px-12 space-y-6">
         
         <div className="flex flex-col md:flex-row justify-between items-start md:items-end gap-4 mb-4 md:mb-8">
             <div>
