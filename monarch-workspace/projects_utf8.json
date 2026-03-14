@@ -1,0 +1,150 @@
+﻿{
+  "status": "success",
+  "result": [
+    {
+      "projectId": "book-publishing-site-87577",
+      "projectNumber": "533700557250",
+      "displayName": "Book-Publishing-Site",
+      "name": "projects/book-publishing-site-87577",
+      "resources": {
+        "hostingSite": "book-publishing-site-87577"
+      },
+      "state": "ACTIVE",
+      "etag": "1_97a87eb1-aaf2-4166-98e0-1392c5c46e3d"
+    },
+    {
+      "projectId": "c-game-3343c",
+      "projectNumber": "479579945918",
+      "displayName": "C-Game",
+      "name": "projects/c-game-3343c",
+      "resources": {
+        "hostingSite": "c-game-3343c",
+        "realtimeDatabaseInstance": "c-game-3343c-default-rtdb"
+      },
+      "state": "ACTIVE",
+      "etag": "1_8d355ad7-74ed-48fa-a0b4-d9df124f4931"
+    },
+    {
+      "projectId": "career-road-map-app-ea73a",
+      "projectNumber": "888250974054",
+      "displayName": "CareerMentor",
+      "name": "projects/career-road-map-app-ea73a",
+      "resources": {
+        "hostingSite": "career-road-map-app-ea73a"
+      },
+      "state": "ACTIVE",
+      "etag": "1_b5393b54-288a-423d-b31e-113f882b7481"
+    },
+    {
+      "projectId": "code-monarch",
+      "projectNumber": "125199972189",
+      "displayName": "Code-Monarch",
+      "name": "projects/code-monarch",
+      "resources": {
+        "hostingSite": "code-monarch"
+      },
+      "state": "ACTIVE",
+      "etag": "1_178acee9-eaa7-48d0-a219-59ae9ef40a9b"
+    },
+    {
+      "projectId": "colearn-portal",
+      "projectNumber": "251875567020",
+      "displayName": "CoLearn-Portal",
+      "name": "projects/colearn-portal",
+      "resources": {
+        "hostingSite": "colearn-portal"
+      },
+      "state": "ACTIVE",
+      "etag": "1_83c5990d-ea21-4570-9c5c-b38ff19b9399"
+    },
+    {
+      "projectId": "devs-recipe",
+      "projectNumber": "515819521208",
+      "displayName": "Devs Recipe",
+      "name": "projects/devs-recipe",
+      "resources": {
+        "hostingSite": "devs-recipe"
+      },
+      "state": "ACTIVE",
+      "etag": "1_c753e3ba-245a-49d0-b0f0-b0e084456b93"
+    },
+    {
+      "projectId": "dream-valley-e9343",
+      "projectNumber": "762471852677",
+      "displayName": "Dream Valley",
+      "name": "projects/dream-valley-e9343",
+      "resources": {
+        "hostingSite": "dream-valley-e9343"
+      },
+      "state": "ACTIVE",
+      "etag": "1_fd42e40b-ae15-4084-bcbb-40f19862c965"
+    },
+    {
+      "projectId": "iloveyou-98680",
+      "projectNumber": "755269784577",
+      "displayName": "iloveyou",
+      "name": "projects/iloveyou-98680",
+      "resources": {
+        "hostingSite": "iloveyou-98680"
+      },
+      "state": "ACTIVE",
+      "etag": "1_66100d58-0386-488a-8c6a-fdc0913ac328"
+    },
+    {
+      "projectId": "medianestchat",
+      "projectNumber": "794619463348",
+      "displayName": "MediaNestChat",
+      "name": "projects/medianestchat",
+      "resources": {
+        "hostingSite": "medianestchat",
+        "realtimeDatabaseInstance": "medianestchat-default-rtdb"
+      },
+      "state": "ACTIVE",
+      "etag": "1_ee285e56-e708-4829-a182-613d276e0b44"
+    },
+    {
+      "projectId": "neer-ai-8c078",
+      "projectNumber": "560481926414",
+      "displayName": "Neer AI",
+      "name": "projects/neer-ai-8c078",
+      "resources": {
+        "hostingSite": "neer-ai-8c078"
+      },
+      "state": "ACTIVE",
+      "etag": "1_48e198c2-3656-4f21-a5c9-39962835de42"
+    },
+    {
+      "projectId": "scheduler-aad0a",
+      "projectNumber": "640707722854",
+      "displayName": "Scheduler",
+      "name": "projects/scheduler-aad0a",
+      "resources": {
+        "hostingSite": "scheduler-aad0a"
+      },
+      "state": "ACTIVE",
+      "etag": "1_95c40938-e01d-4cf7-ab54-f8893c1d221c"
+    },
+    {
+      "projectId": "techastra-26",
+      "projectNumber": "299958628991",
+      "displayName": "TechAstra'26",
+      "name": "projects/techastra-26",
+      "resources": {
+        "hostingSite": "techastra-26"
+      },
+      "state": "ACTIVE",
+      "etag": "1_d3ab35b4-7983-41db-ad0e-a4a68dbda438"
+    },
+    {
+      "projectId": "wayport-a8492",
+      "projectNumber": "1049803291104",
+      "displayName": "Wayport",
+      "name": "projects/wayport-a8492",
+      "resources": {
+        "hostingSite": "wayport-a8492"
+      },
+      "state": "ACTIVE",
+      "etag": "1_c9043ad2-a037-4388-bbf4-17dd69b09284"
+    }
+  ]
+}
